@@ -27,6 +27,6 @@
   "dependencies": {
     "diff": ">=3.5.0",
     "openzeppelin-solidity": "^2.3.0",
-    "truffle": "^5.0.22"
+    "truffle": "^5.7.9"
   }
 }
